@@ -1,7 +1,6 @@
 # EXCEL-Dashboard-Project
 About Dataset
 In this project- 
-
 1)I used a dataset of a company's bike sales, cleaned the data in Excel. 
 
 
